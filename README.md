@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Luiz Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?GustavoNeery=anuraghazra&show_icons=true&theme=radical)
+![Luiz Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoNeery&show_icons=true&theme=radical)
 <!--
 **GustavoNeery/GustavoNeery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
