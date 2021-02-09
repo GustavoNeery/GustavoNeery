@@ -2,6 +2,7 @@
 
 - My name is Luiz Gustavo, 21
 - I'm studying Computer Science in UFCG
+📚Currently trying learn: JavaScript, Node and CSS.
 
 ![Luiz Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoNeery&show_icons=true&theme=radical)
 
