@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Luiz Gustavo, 21
+- My name is Luiz Gustavo, 22
 - I'm studying Computer Science in UFCG.
 - 🌱 I’m currently learning: NodeJS and ReactJS.
 
