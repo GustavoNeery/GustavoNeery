@@ -3,7 +3,9 @@
 - I'm studying Computer Science in UFCG.
 - 🌱 I’m currently learning: NodeJS and ReactJS.
 
- ![Luiz Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoNeery&show_icons=true&theme=radical)
+![GustavoNeery's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoNeery&theme=merko&show_icons=true)
+
+GustavoNeery
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNeery&layout=compact)](https://github.com/GustavoNeery/github-readme-stats)
 
