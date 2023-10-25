@@ -6,8 +6,6 @@
 ![GustavoNeery's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoNeery&theme=merko&show_icons=true)
 
 GustavoNeery
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNeery&layout=compact)](https://github.com/GustavoNeery/github-readme-stats)
 
 📫 How to reach me:
 <div style="display: inline_block">
