@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm studying Computer Science in UFCG.
-- 🌱 I’m currently learning: Clojure and ReactJS.
+- 🌱 I’m currently learning: Clojure and NodeJS.
 
 ![GustavoNeery's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoNeery&theme=merko&show_icons=true)
 
