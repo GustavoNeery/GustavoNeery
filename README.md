@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 - Computer Science Bachelor by UFCG.
-- 🌱 I’m currently learning: Clojure and NodeJS.
-
-![GustavoNeery's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoNeery&theme=merko&show_icons=true)
-
-GustavoNeery
+- I'm Backend Developer
 
 📫 How to reach me:
 <div style="display: inline_block">
